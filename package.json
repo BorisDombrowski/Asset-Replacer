@@ -1,0 +1,22 @@
+{
+  "name": "com.borisdombrowski.assetreplacer",
+  "version": "1.0.0",
+  "displayName": "Asset Replacer",
+  "description": "Tool for fast replacing of links to asset",
+  "unity": "2020.3",
+  "unityRelease": "33f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "asset",
+    "replace",
+    "utility"
+  ],
+  "author": {
+    "name": "Boris Dombrowski",
+    "email": "the.great.b@frameblade.com",
+    "url": "https://github.com/BorisDombrowski/"
+  },
+  "type": "tool"
+}
