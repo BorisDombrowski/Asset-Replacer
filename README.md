@@ -21,3 +21,16 @@ Push the Replace button and voila, all Texture.jpg usegas were replaced by Textu
 ![изображение](https://user-images.githubusercontent.com/32637303/185440798-212edc4e-b168-48c9-b5fe-22c24fb275de.png)
 
 You can replace other types of assets by this tool: materials, audio/video clips and ect.
+
+## How to install?
+1. Copy an URL on the main page of repository (or copy it just from here)
+
+https://github.com/BorisDombrowski/Asset-Replacer.git 
+
+![изображение](https://user-images.githubusercontent.com/32637303/185441602-2c0b532a-16f4-4330-be6a-c717b3dd6b67.png)
+
+2. Open the Package Manager in your Unity project
+3. Use "Add package from git URL" option, paste URL and push Add
+
+![изображение](https://user-images.githubusercontent.com/32637303/185442211-3b52ff56-af45-4cda-a7d6-ad00db970059.png)
+![изображение](https://user-images.githubusercontent.com/32637303/185442289-de9163e4-a9a1-47ac-b645-ae66e6c9144d.png)
