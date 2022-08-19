@@ -1,6 +1,6 @@
 {
   "name": "com.borisdombrowski.assetreplacer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "Asset Replacer",
   "description": "A tool for fast replacing of asset by asset of same type",
   "unity": "2020.3",
